@@ -1,12 +1,12 @@
 # seocho-animal-mobile
 
-    <리디자인 사이트>
+  #### 리디자인 사이트
 
-    https://hanabeeeee.github.io/Seocho-Animals-center/
+  https://hanabeeeee.github.io/Seocho-Animals-center/
 
-    <기존 사이트>
+  #### 기존 사이트
 
-    https://seocho.go.kr/site/animal/main.do
+  https://seocho.go.kr/site/animal/main.do
 
 ## 제작 목표
 
