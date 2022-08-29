@@ -6,7 +6,7 @@
     box-sizing: border-box;
   }
   
-  ul {
+  li, ol, ul {
     list-style-type: none;
   }
   
