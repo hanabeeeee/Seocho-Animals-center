@@ -22,6 +22,7 @@ https://seocho.go.kr/site/animal/main.do
 - Toggle category menu Hover 기능 추가
 - 입양 공고 상세페이지 하단 입양 상담하기 버튼 클릭 시 전화번호 연결(모바일 디바이스만 가능)
 - GNB Hover 시 서브 메뉴 나오게 구현
+- AOS를 이용한 애니메이션 기능
 
 # 나의 기여
 
@@ -32,4 +33,6 @@ https://seocho.go.kr/site/animal/main.do
 - Main의 fixed 버튼 구현
 - Header, GNB 구현
 - Footer 오류 전면 수정
+- AOS 애니메이션
+- Main dental-clinic box 호버 시 색상이 바뀌면서 크기가 커지는 기능
 
