@@ -1,6 +1,6 @@
 # seocho-animal-mobile
 
-리디자인
+## 리디자인 사이트
 
 https://hanabeeeee.github.io/Seocho-Animals-center/
 
